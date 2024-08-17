@@ -5,4 +5,7 @@ Web Scraping/.idea/
 .ipynb_checkpoints
 __pycache__
 Anirec/*.txt
+Web Scraping/Raw scrapped files
+Web Scraping/Crawled Datasets
+Web Scraping/ani_spider/*.json
 Random.ipynb
