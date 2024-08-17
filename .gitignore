@@ -1,11 +1,13 @@
-Web Scraping/.venv/
-Web Scraping/.idea/
 .idea
 .vscode
 .ipynb_checkpoints
 __pycache__
 Anirec/*.txt
+Random.ipynb
+*json
+*csv
+extras/
+Web Scraping/.venv/
 Web Scraping/Raw scrapped files
 Web Scraping/Crawled Datasets
 Web Scraping/ani_spider/*.json
-Random.ipynb
