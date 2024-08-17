@@ -1,5 +1,0 @@
-1) Stemming of keywords
-2) Improvised the rules Dict [DONE]
-3) Scrapping Data complete [DONE]
-4) Scrapping Images [DONE]
-5)Multi armed bandit sol
