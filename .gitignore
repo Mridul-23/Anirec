@@ -1,0 +1,8 @@
+Web Scraping/.venv/
+Web Scraping/.idea/
+.idea
+.vscode
+.ipynb_checkpoints
+__pycache__
+Anirec/*.txt
+Random.ipynb
