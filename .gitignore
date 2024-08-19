@@ -6,6 +6,7 @@ Anirec/*.txt
 Random.ipynb
 *json
 *csv
+*bin
 extras/
 Web Scraping/.venv/
 Web Scraping/Raw scrapped files
