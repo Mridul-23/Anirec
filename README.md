@@ -59,8 +59,8 @@ The recommender system is implemented as a command-line interface and integrates
 
    Execute the following Jupyter notebooks in order to prepare and process the data, train the embeddings, and compute similarity:
 
-   - **Data Preprocessing:** `data_preprocessing.ipynb`
-   - **Word2Vec Training:** `word2vec_training.ipynb`
+   - **Data Preprocessing:** `Data_Preprocessing.ipynb`
+   - **Word2Vec Training:** `w2v model.ipynb`
    - **Similarity Matrix Computation:** `similarity_matrix.ipynb`
 
    You can run these notebooks in a Jupyter environment.
@@ -77,8 +77,8 @@ The recommender system is implemented as a command-line interface and integrates
 
 ## Code Structure
 
-- **`data_preprocessing.ipynb`:** Contains data preprocessing logic.
-- **`word2vec_training.ipynb`:** Handles Word2Vec embeddings training.
+- **`Data_Preprocessing.ipynb`:** Contains data preprocessing logic.
+- **`w2v model.ipynb`:** Handles Word2Vec embeddings training.
 - **`similarity_matrix.ipynb`:** Computes item similarity using a similarity matrix.
 - **`model.py`:** Contains the Multi-Armed Bandit final recommender system logic and model.
 - **`requirements.txt`:** Lists Python dependencies required to run the project.
